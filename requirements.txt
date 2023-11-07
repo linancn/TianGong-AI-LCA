@@ -1,6 +1,7 @@
 brightway2
 fastapi
 langchain
+langchain_experimental
 openai==0.28.1
 streamlit
 xata
